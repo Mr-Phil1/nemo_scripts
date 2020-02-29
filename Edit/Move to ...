@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/usr/share/ubuntu-tweak/script-worker move $NEMO_SCRIPT_SELECTED_URIS
