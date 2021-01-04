@@ -19,6 +19,11 @@ Scripts for nemo file manager.
 # Installation
 - Place these scripts within your NEMO_HOME directory, which is often found at ~/.local/share/nemo/scripts.
 - Make them executable
-  - chmod a+x -R ~/.local/share/nemo/scripts/*
+  - `cd ~/.local/share/nemo/scripts`
+  - `git clone https://github.com/mr-phil1/nemo_scripts`
+  - `chmod a+x -R ~/.local/share/nemo/scripts/*`
 - All executable files in this folder will appear in the Nemo Scripts menu. 
 - Choosing a script from the menu will run that script.
+
+# To-Do
+ - [ ] Write functional for Ubuntu Budgie
